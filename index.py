@@ -48,10 +48,6 @@ Ele pedirá sua senha. Instalamos o empacotador em / usr / local / packer e o PH
 
 
 
-            VOU TER QUE ESTUDAR PELO MENOS DECISÃO NO BASH/SHELL_SCRIPT PARA REPRODUZIR ISSO COM DECISÕES NO (INSTALL3.SH)
-
-
-
 # verificando se a plataforma onde a aplicação está rodando é Windows
 if(platform == "win32"):
     print("""meu amigo, se vira aí pra atualizar esse seu Windows meu consagrado,
