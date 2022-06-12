@@ -1,1 +1,5 @@
-# site_local
+# SITE_LOCAL
+## site particular e totalmente adaptável ao ambiente de execução 
+O SITE-LOCAL como o próprio nome já diz, é um site cuja sera rodado apenas na própria máquina, claro obviamente que a pessoa poderia fazer o deploy para um domínio de acesso público ou até mesmo em sua própria máquina com ferramentas de túnel como o ssh utilizando a metodologia de <a href="https://www.vultr.com/docs/reverse-ssh-tunneling/?utm_source=performance-max-latam">Reverse SSH Tunneling</a>
+enfim, a forma que o dev vai usar para fazer o deploy ou onde ele vai jogar a aplicação não me interessa, o intuito desse projeto é apenas da uma base de desenvolvimento seja lá em qual for a máquina ou sistema operacional que o dev escolher para desenvolver, sem se preocupar com downloads ou installations só presidiária se preocupar em da apenas um comando dependente do ambiente de desenvolvimento no terminal para que desse início a preparação do ambiente de desenvolvimento</br>
+o projeto ainda está em andamento, e obviamente irei precisar de toda ajuda possível para que esse projeto seja possível, pois sei apenas tornar isso possível para Linux; como mencionado anteriormente, tera um arquivo de execução para que todo o procedimento de preparação do ambiente seja feito independente do ambiente 
