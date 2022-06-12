@@ -2,7 +2,7 @@ body { background: red; }
 
 /* style { font-size:18px; height:40px; width:280px; } */
 
- #input { font-size:16pt; height:20px; width:850px; }
+#input { font-size:16pt; height:20px; width:850px; }
 
- iframe { width:950px; height:380pt;
- }
+iframe { width:100%; height:380pt; }
+
